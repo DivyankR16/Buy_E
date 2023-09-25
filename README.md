@@ -1,2 +1,2 @@
 # Buy_E
-E-coomerce website using MERN stack 
+E-commerce website using MERN stack 
